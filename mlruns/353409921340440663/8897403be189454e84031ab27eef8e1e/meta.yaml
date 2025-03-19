@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kk061/OneDrive/Desktop/python/Mlflow%20Main/3-deep%20learning%20project/mlruns/353409921340440663/8897403be189454e84031ab27eef8e1e/artifacts
+end_time: 1742375950455
+entry_point_name: ''
+experiment_id: '353409921340440663'
+lifecycle_stage: active
+run_id: 8897403be189454e84031ab27eef8e1e
+run_name: bedecked-rook-316
+run_uuid: 8897403be189454e84031ab27eef8e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742375889034
+status: 3
+tags: []
+user_id: kk061

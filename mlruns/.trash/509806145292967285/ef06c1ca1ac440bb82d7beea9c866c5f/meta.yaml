@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/kk061/OneDrive/Desktop/python/Mlflow%20Main/3-deep%20learning%20project/mlruns/509806145292967285/ef06c1ca1ac440bb82d7beea9c866c5f/artifacts
+deleted_time: 1742376078567
+end_time: 1742375756653
+entry_point_name: ''
+experiment_id: '509806145292967285'
+lifecycle_stage: deleted
+run_id: ef06c1ca1ac440bb82d7beea9c866c5f
+run_name: resilient-conch-60
+run_uuid: ef06c1ca1ac440bb82d7beea9c866c5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742375745492
+status: 3
+tags: []
+user_id: kk061

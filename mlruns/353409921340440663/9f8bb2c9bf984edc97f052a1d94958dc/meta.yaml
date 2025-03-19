@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kk061/OneDrive/Desktop/python/Mlflow%20Main/3-deep%20learning%20project/mlruns/353409921340440663/9f8bb2c9bf984edc97f052a1d94958dc/artifacts
+end_time: 1742375924030
+entry_point_name: ''
+experiment_id: '353409921340440663'
+lifecycle_stage: active
+run_id: 9f8bb2c9bf984edc97f052a1d94958dc
+run_name: sassy-worm-586
+run_uuid: 9f8bb2c9bf984edc97f052a1d94958dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742375912199
+status: 3
+tags: []
+user_id: kk061

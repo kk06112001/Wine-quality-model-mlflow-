@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/kk061/OneDrive/Desktop/python/Mlflow%20Main/3-deep%20learning%20project/mlruns/509806145292967285/750437995fe64aa19788b2313de8cf1c/artifacts
+deleted_time: 1742376078567
+end_time: 1742375684892
+entry_point_name: ''
+experiment_id: '509806145292967285'
+lifecycle_stage: deleted
+run_id: 750437995fe64aa19788b2313de8cf1c
+run_name: redolent-crow-38
+run_uuid: 750437995fe64aa19788b2313de8cf1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742375672247
+status: 3
+tags: []
+user_id: kk061
